@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Frussen
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Odoo
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently learning Data Analytics
 - 📫 You can reach me via email: francesco.frusone@gmail.com
